@@ -19,7 +19,7 @@ addons:
     notification_email: bryantdreaves@gmail.com
     build_command_prepend: "./configure"
     build_command: "make -j2"
-    branch_pattern: master
+    branch_pattern: coverity_scan
 
 
     
